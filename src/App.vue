@@ -1,3 +1,3 @@
 <template>
-  <div id="app">hello world</div>
+  <div id="app" class="bg-red-600">hello world</div>
 </template>
